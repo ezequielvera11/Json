@@ -1,0 +1,24 @@
+{
+    "posts": [
+    {
+        "name": "Dean Morrison",
+        "text": "est. Nunc ullamcorper, velit in aliquet lobortis, nisi nibh lacinia"
+    },
+    {
+        "name": "Cedric Rivas",
+        "text": "arcu. Sed et libero. Proin mi. Aliquam gravida mauris ut"
+    },
+    {
+        "name": "Brent Bullock",
+        "text": "sollicitudin a, malesuada id, erat. Etiam vestibulum massa rutrum magna."
+    },
+    {
+        "name": "Jerome Marquez",
+        "text": "nonummy ultricies ornare, elit elit fermentum risus, at fringilla purus"
+    },
+    {
+        "name": "Yasir Melendez",
+        "text": "sed, sapien. Nunc pulvinar arcu et pede. Nunc sed orci"
+    }
+    ]
+}
